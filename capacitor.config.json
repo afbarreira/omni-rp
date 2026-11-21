@@ -1,0 +1,8 @@
+{
+  "appId": "com.quadromissoes.app",
+  "appName": "Omni RP",
+  "webDir": "www",
+  "backgroundColor": "#07050c",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false, "backgroundColor": "#07050c" }
+}

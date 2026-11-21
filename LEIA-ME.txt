@@ -1,0 +1,13 @@
+OMNI RP · pacote simples para o GitHub (tudo solto, sem pastas)
+
+1. No repositório novo e vazio, clique em "uploading an existing file".
+2. Arraste estes 7 arquivos: index.html, package.json, capacitor.config.json,
+   icone.png, icone-redondo.png, icone-frente.png e splash.png. Commit changes.
+3. Clique em Add file > Create new file. No campo do nome, digite exatamente:
+       .github/workflows/main.yml
+   (as barras criam as pastas sozinhas). Abra o main.yml deste pacote no Bloco de Notas,
+   copie tudo, cole no GitHub e clique em Commit changes.
+4. Aba Actions: espere o "Gerar APK" ficar verde e baixe o omni-rp-apk.
+
+Próximas atualizações: envie só o index.html novo na página inicial do repositório.
+Trocar o ícone: envie novos icone.png, icone-redondo.png e icone-frente.png (1024 x 1024).
